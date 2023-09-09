@@ -5,7 +5,7 @@ India based Hardware company Sales Insights - A Data Analysis Project performed 
 - Developed ETL mapping with the use of SQL for extracting the data from the unstructured data and transform that to  staging area for conducting data cleaning and design star schema data model on Tableau.
 - Developed a Tableau dashboard for perform analysis, producing quantitative visualizations in Tableau to draw valuable insights upon different parameters affecting the company performance year on year and provide business solutions later.
  ## Technologies used ⚙️
-- - Advance Excel
+-  Advance Excel
 - MySQL | SQL Server
 - Tableau | Power Bi
 - Statistics
